@@ -18,7 +18,7 @@ class Book:
         return "Book({}, '{}')".format(self.authors, self.title)
 
 
-    # Compare the Book object with another value to determine equality.
+    # Comparae the dBook aobjesct with another value to determine equality.
     # input: Book against which to compare
     # input: Another value to compare to the Book
     # output: boolean indicating equality
